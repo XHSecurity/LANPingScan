@@ -1,9 +1,11 @@
 # LAN_PingScan 
 ## 局域网连通性扫描（Ping扫描）工具
 
+### 安装依赖
+pip install -requirements.txt
+
 ### 运行程序
-python 
+python LAN_PingScan.py
 
 ## 运行截图
-### 启动脚本截图
 ![示例图片](example.png)
