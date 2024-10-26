@@ -1,5 +1,5 @@
 # LAN_PingScan 
-## 局域网连通性扫描（Ping扫描）工具
+## 局域网存活主机扫描（Ping扫描）工具
 
 ### 安装依赖
 pip install -requirements.txt
