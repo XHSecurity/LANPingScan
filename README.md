@@ -2,7 +2,7 @@
 ## 局域网存活主机扫描（Ping扫描）工具
 
 ### 安装依赖
-pip install -requirements.txt
+pip install -r requirements.txt
 
 ### 运行程序
 python LAN_PingScan.py
